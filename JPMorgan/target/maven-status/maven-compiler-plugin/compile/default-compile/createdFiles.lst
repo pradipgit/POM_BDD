@@ -1,0 +1,5 @@
+com\test\pagefactory\Pagefactory.class
+com\test\runner\RunnerTest.class
+com\test\pages\GooglePage.class
+com\test\pages\JPMorganPage.class
+com\test\stepdefination\JPMorgan_Steps.class
